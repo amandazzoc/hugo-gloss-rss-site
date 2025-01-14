@@ -36,10 +36,10 @@ As seguintes ferramentas e tecnologias foram utilizadas na construção deste pr
 
 1. *Clonar o Repositório:*
 
-bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_PROJETO>
-
+```bash
+git clone https://github.com/amandazzoc/hugo-gloss-rss-site.git
+cd hugo-gloss-rss-site
+```
 
 2. *Instalar as dependências:*
 
